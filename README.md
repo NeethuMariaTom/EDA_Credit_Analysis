@@ -1,2 +1,2 @@
 # Upgrad_projects
-Data science projects_upgrad
+Data science projects
