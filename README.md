@@ -1,2 +1,2 @@
-# Upgrad_projects
+# Credit EDA_loan application
 Data science projects
