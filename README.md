@@ -18,3 +18,6 @@ The loan providing companies find it hard to give loans to the people due to the
  4. Unused offer:  Loan has been cancelled by the client but on different stages of the process.
 
 In this case study, EDA is ued to understand how consumer attributes and loan attributes influence the tendency of default.
+
+
+*** data in my drive
