@@ -20,4 +20,3 @@ The loan providing companies find it hard to give loans to the people due to the
 In this case study, EDA is ued to understand how consumer attributes and loan attributes influence the tendency of default.
 
 
-*** data in my drive
